@@ -1,3 +1,3 @@
-while Tre:
+while True:
   print('olá mundo cruel!')
   
